@@ -1,14 +1,13 @@
 ## Hi there 👋, I'm Mike!
 #### Computational Biologist | Gamer | Dog Lover
 
-My name is Mike, and I'm a recent graduate from the University of North Carolina with a PhD in Bioinformatics and Computational Biology. I am currently working as a postdoc in the [Stein Lab](https://www.steinlab.org) and looking for the next step in my career! He/Him 🧬👨🏻‍💻🏳️‍🌈  
+My name is Mike, and I'm a recent graduate from the University of North Carolina with a PhD in Bioinformatics and Computational Biology. I am currently working as a Bioinformatician at [Watershed Bio](https://www.watershed.ai) in Cambridge, MA! He/Him 🧬👨🏻‍💻🏳️‍🌈  
 
 [Website](https://www.mikelaff.net) | [LinkedIn](https://www.linkedin.com/in/mikelaff/) | [Twitter](https://twitter.com/mikelaff) | [Instagram](https://www.instagram.com/mikelaffer/)  
 
 #### Code Samples
-My lab uses Bitbucket for all our project repositories, so must of my code resides there. The data analysis surrounding my latest publication can be found [here](https://bitbucket.org/steinlabunc/mirna-eqtl/src/master/). Most of this analysis was done using R and BASH. A good example of a pipeline can be found in this specific [folder](https://bitbucket.org/steinlabunc/mirna-eqtl/src/master/src/conditionally_independent_eqtls/).  
+The data analysis surrounding my latest publication can be found [here](https://github.com/mikelaff/mirna-eqtl-manuscript). Most of this analysis was done using R and BASH.  
 
-The majority of my experience with Python has been with class projects (as a student and as a TA). A good example was an introductory programming course I designed and taught with a colleague, which can be found [here](https://github.com/snystrom/UNC-HTLC_Python_2017).  
 
 
 
