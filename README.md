@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Mike!
 #### Computational Biologist | Gamer | Dog Lover
 
-My name is Mike, and I'm a recent graduate from the University of North Carolina with a PhD in Bioinformatics and Computational Biology. I am currently working as a Bioinformatician at [Watershed Bio](https://www.watershed.ai) in Cambridge, MA! He/Him 🧬👨🏻‍💻🏳️‍🌈  
+My name is Mike, and I'm a recent graduate from the University of North Carolina with a PhD in Bioinformatics and Computational Biology. I am currently working as a Bioinformatician at [Watershed Bio](https://www.watershed.bio) in Cambridge, MA! He/Him 🧬👨🏻‍💻🏳️‍🌈  
 
 [Website](https://www.mikelaff.net) | [LinkedIn](https://www.linkedin.com/in/mikelaff/) | [Twitter](https://twitter.com/mikelaff) | [Instagram](https://www.instagram.com/mikelaffer/)  
 
